@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/20299d3d-6218-43ae-8a77-95a592b90119)- 👋 Hi, I’m @jeremyyblum
+- 👋 Hi, I’m @jeremyyblum
 - 👀 I’m interested in Cars, Food and good Music
 - 🌱 I’m currently learning Web Development, Data Analysis and studying IT
 - 📫 How to reach me - Mail me
